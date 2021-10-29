@@ -3,8 +3,7 @@ if(place_meeting(x,y,oPlayer) and !collected3){
 	image_index = 0;
 	collected3 = true;
 	
-	  instance_change(oChange2, true);
-		exit;
+	 
 }
 
 if(collected3){
