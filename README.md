@@ -41,9 +41,12 @@ Follow these steps and you should be able to beat the game no problem!
 
 <h2>Other Levels</h2>
 
- <img src="README-Images/gameScreenShot.png" alt="Fruit" width="500" height="400"> <img src="README-Images/gameScreenShot2.png" alt="Fruit" width="500" height="400"> 
+ <div align="center" >
+ <img src="README-Images/gameScreenShot.png" alt="Fruit" width="600" height="400"> <img src="README-Images/gameScreenShot2.png" alt="Fruit" width="600" height="400"> 
 
-### Built With
+</div> 
+
+### Built With:
 
 <a href = "https://www.yoyogames.com/en/gamemaker" > GameMaker Studio 2 </a>
 
