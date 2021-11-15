@@ -37,7 +37,7 @@ Follow these steps and you should be able to beat the game no problem!
 
 ## Project Preview
 
-![](README-Images/game.gif)
+![](README-Images/gamePlay.gif)
 
 <h2>Other Levels</h2>
 
