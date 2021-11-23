@@ -46,9 +46,13 @@ Follow these steps and you should be able to beat the game no problem!
 
 </div> 
 
-### Built With:
+## Built With:
 
 <a href = "https://www.yoyogames.com/en/gamemaker" > GameMaker Studio 2 </a>
+
+## Assets 
+
+All art assets were obtained from <a href = "https://pixelfrog-assets.itch.io/pixel-adventure-1"  > here </a>
 
 ## Language: 
 
